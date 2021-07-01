@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: 36ecadb1197dc08dcebe
+  clientSecret: 9a29040de411ebb8729836aa1070b598ad3812e4
   repo: joybeginner.github.io
   owner: joybeginner
 
