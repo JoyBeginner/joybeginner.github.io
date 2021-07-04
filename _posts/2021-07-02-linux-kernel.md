@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: ['linux', 'libc']
+tags: ['linux', 'libc'e]
 ---
 
 # glibc kernel compatibility
